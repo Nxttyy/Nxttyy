@@ -1,29 +1,37 @@
-``` text
-┈┈╱╱▏╱╱▏   ┈┈╱╱╱╱╱▏    ┈╱╱▏┈┈┈   ┈╱╱▏┈┈┈   ┈╱╱╱╱╱▏
-┈┈▇╱▏▇╱▏   ┈┈▇▇▇▇╱┈    ┈▇╱▏┈┈┈   ┈▇╱▏┈┈┈   ┈▇▇▇▇╱▏
-┈┈▇╱▏▇╱▏   ┈┈▇╱▏┈┈┈    ┈▇╱▏┈┈┈   ┈▇╱▏┈┈┈   ┈▇╱▏▇╱▏
-┈┈▇▇▇▇╱▏   ┈┈▇▇▇┈┈┈    ┈▇╱▏┈┈┈   ┈▇╱▏┈┈┈   ┈▇╱▏▇╱▏
-┈┈▇╱▏▇╱▏   ┈┈▇╱╱╱╱▏    ┈▇╱╱╱╱▏   ┈▇╱╱╱╱▏   ┈▇╱╱▇╱▏
-┈┈▇╱┈▇╱┈   ┈┈▇▇▇▇╱┈    ┈▇▇▇▇╱┈   ┈▇▇▇▇╱┈   ┈▇▇▇▇╱┈
-```
+# 🗜️ NATTY // FULLSTACK ARCHITECT
 
-#### I'm Natty — a fullstack developer specialized in backend development. I’ve worked with various cloud platforms and enterprise solutions, including extensive experience with Power BI Embedded.
+<p align="left">
+  <img src="https://img.shields.io/badge/SYSTEM_BUILDER-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLOUD_NATIVE-000000?style=for-the-badge&logo=icloud&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/VERSION-2.5.0-blue?style=for-the-badge&labelColor=000000" /> -->
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### 01 . OVERVIEW
+> **Fullstack Developer** specialized in building resilient backend systems and enterprise-grade data visualizations. Bridging the gap between complex cloud infrastructure and seamless user experiences.
 
-#### @️ My Socials:
-[![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://nathnaelyirga.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathnael-yirga)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Equivalent_Jello4045)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nathnaelyirga)
+---
 
+### 02 . CORE STACK
+| LAYER | TECHNOLOGIES |
+| :--- | :--- |
+| **BACKEND** | `Python` `Django` `Flask` `Node.js` |
+| **FRONTEND** | `React` `NextJS` `TailwindCSS` |
+| **DATA/BI** | `Power BI Embedded` `SQL` `ETL Pipelines` |
+| **INFRA** | `AWS` `Azure` `Docker` `Linux` |
 
+---
+
+### 03 . SPECIALIZATION
+* **Enterprise BI:** Extensive experience embedding **Power BI** into custom SaaS applications.
+* **Cloud Architecture:** Designing scalable environments on **AWS** and **Azure**.
+* **Modern DevOps:** Implementing robust **CI/CD pipelines**, container orchestration with **Docker**, and automated deployment workflows.
+---
+
+### 04 . CONNECT
+[**PORTFOLIO**](https://nathnaelyirga.dev) • [**LINKEDIN**](https://linkedin.com/in/nathnael-yirga)
+
+---
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/murecasm/murecasm/master/mail.svg" width="15" /> <i>nathnaelyirga@gmail.com</i>
+</p>
