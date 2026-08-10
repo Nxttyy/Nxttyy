@@ -28,7 +28,7 @@
 ---
 
 ### 04 . CONNECT
-[**PORTFOLIO**](https://nathnaelyirga.dev) • [**LINKEDIN**](https://linkedin.com/in/nathnael-yirga)
+[**PORTFOLIO**](https://nty.et) • [**LINKEDIN**](https://linkedin.com/in/nathnael-yirga)
 
 ---
 
